@@ -1,0 +1,15 @@
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.exe
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.deps.json
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.runtimeconfig.json
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.pdb
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.csproj.AssemblyReference.cache
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.AssemblyInfoInputs.cache
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.AssemblyInfo.cs
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\refint\CatWorx.badgeMaker.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.pdb
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.genruntimeconfig.cache
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\ref\CatWorx.badgeMaker.dll
