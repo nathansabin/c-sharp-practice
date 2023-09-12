@@ -41,6 +41,7 @@ namespace CatWorx.BadgeMaker
             // takes user data and prints it to command line
             Util.PrintEmployees(employees);
             Util.MakeCSV(employees);
+            Util.MakeBadges(employees);
         }
     }
     

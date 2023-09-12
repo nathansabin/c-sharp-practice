@@ -13,3 +13,9 @@ C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debu
 C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.pdb
 C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.genruntimeconfig.cache
 C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\ref\CatWorx.badgeMaker.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\sabin\bootcamp\personal_projects\c#practice\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.csproj.CopyComplete
