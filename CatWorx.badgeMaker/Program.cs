@@ -6,14 +6,6 @@ namespace CatWorx.BadgeMaker
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            // Calls function to take user data from CLI 
-            List<Employee> employees = GetEmployees();
-
-            // takes user data and prints it to command line
-            PrintEmployees(employees);
-        }
 
         // Takes user data and returns to main function.
         static List<Employee> GetEmployees() 
@@ -40,13 +32,16 @@ namespace CatWorx.BadgeMaker
             // returns data to main
             return employees;
         }
-        static void PrintEmployees(List<Employee> employees)
-        {   
-            // Loops through data prints each entry to the CLI.
-            for (int i = 0; i < employees.Count; i++) {
-                    string template = "{0,-10}\t{1,-20}\t{2}";
-                    Console.WriteLine(String.Format(template, employees[i].GetId(), employees[i].GetFullName(), employees[i].GetPhotoUrl()));
-            }
+
+         static void Main(string[] args)
+        {
+            // Calls function to take user data from CLI 
+            List<Employee> employees = GetEmployees();
+
+            // takes user data and prints it to command line
+            Util.PrintEmployees(employees);
+            Util.MakeCSV(employees);
         }
     }
+    
 }
